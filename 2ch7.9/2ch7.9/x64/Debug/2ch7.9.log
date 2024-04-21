@@ -1,0 +1,4 @@
+﻿  2ch7.9.cpp
+C:\Users\loviv\HW-file\2ch7.9\2ch7.9\2ch7.9.cpp(14,7): warning C4101: 'fivecase': 未參考的區域變數
+C:\Users\loviv\HW-file\2ch7.9\2ch7.9\2ch7.9.cpp(63,41): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  2ch7.9.vcxproj -> C:\Users\loviv\HW-file\2ch7.9\x64\Debug\2ch7.9.exe
