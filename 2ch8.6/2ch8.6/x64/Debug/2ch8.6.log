@@ -1,0 +1,4 @@
+﻿  2ch8.6.cpp
+C:\Users\loviv\HW-file\2ch8.6\2ch8.6\2ch8.6.cpp(26,12): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\loviv\HW-file\2ch8.6\2ch8.6\2ch8.6.cpp(27,12): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  2ch8.6.vcxproj -> C:\Users\loviv\HW-file\2ch8.6\x64\Debug\2ch8.6.exe
